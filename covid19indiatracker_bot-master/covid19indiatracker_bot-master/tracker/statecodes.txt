@@ -1,0 +1,32 @@
+Maharashtra MH
+Tamil Nadu TN
+Delhi DL
+Rajasthan RJ
+Telangana TG
+Uttar Pradesh UP
+Gujarat GJ
+Madhya Pradesh MP
+Kerala KL
+Jammu and Kashmir JK
+Karnataka KA
+Haryana HR
+Punjab PB
+West Bengal WB
+Odisha OR
+Uttarakhand UT
+Himachal Pradesh HP
+Jharkhand JH
+Chandigarh CH
+Chhattisgarh CT
+Goa GA
+Puducherry PY
+Ladakh LA
+Tripura TR
+Dadra and Nagar Haveli DD
+Manipur MN
+Mizoram MZ
+Daman and Diu DN
+Meghalaya ML
+Lakshadweep LD
+Nagaland NL
+Sikkim SK
