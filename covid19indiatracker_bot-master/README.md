@@ -5,3 +5,5 @@ This is a support version for maintainers of the website. </br>
 For the official Telegram bot released to public, kindly search for: `@COVID19IND1A_BOT`</br></br>
 
 _STAY SAFE FOLKS!!_
+
+I have made some changes in read me file
